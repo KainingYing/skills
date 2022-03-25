@@ -5,11 +5,12 @@
 ## TODO：
 
 - [x] Git
-- [ ] Linux Command and Shell     
+- [x] Linux Command and Shell     
 - [ ] Python
 - [ ] Latex
 
 ## Update
 
 - 2022/3/24 初次提交了git
+- 20223/25 初次提交了linux
 
